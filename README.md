@@ -6,13 +6,12 @@ Welcome to the Food ordering App. In this web app, you will be able to select it
 - Also, you can see the selected items inside the cart and add or reduce the quantity.
 - Finally, you can submit your order.
 
-![responsive-design](./screenshots/space-travelers-hub-preview.png)
 
 ### 🖥️ Desktop version
 
 #### This is the home page, where you can see and interact with the available rockets
 
-![homepage-screen](./screenshots/rockets-desktop.png)
+![homepage-screen](./screenshots/HomePage.png)
 
 #### This is the missions page, where you can join and read about the available missions
 
