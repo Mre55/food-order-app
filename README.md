@@ -9,17 +9,17 @@ Welcome to the Food ordering App. In this web app, you will be able to select it
 
 ### 🖥️ Desktop version
 
-#### This is the home page, where you can see and interact with the available rockets
+#### This is the home page, where you can see and interact with the available foods to order
 
 ![homepage-screen](./screenshots/HomePage.png)
 
-#### This is the missions page, where you can join and read about the available missions
+#### This is the cart page, where you can see items added to cart and add or remove items quantity inside the cart
 
-![mission-screen](./screenshots/missions-desktop.png)
+![mission-screen](./screenshots/CartPage.png)
 
-####  Finally, this interface will help you to keep track of the rockets and missions you joined
+####  Finally, this interface where to added information for ordering the foods
 
-![myProfile-screen](./screenshots/myProfile-desktop.png)
+![myProfile-screen](./screenshots/orderPage.png)
 
 ### 📱 Mobile version
 
@@ -27,15 +27,15 @@ Here you can take a look at the different pages for the mobile version
 
 #### Home Page
 
-<img src="./screenshots/rockets-mobile.png" alt="homepage-screen" width="450"/>
+<img src="./screenshots/HomePageMobile.png" alt="homepage-screen" width="450"/>
 
 #### Missions Page
 
-<img src="./screenshots/missions-mobile.png" alt="missions-screen" width="450"/>
+<img src="./screenshots/CartPageMobile.png" alt="missions-screen" width="450"/>
 
 #### My Profile Page
 
-<img src="./screenshots/myProfile-mobile.png" alt="myProfile-screen" width="450"/>
+<img src="./screenshots/orderPageMobile.png" alt="myProfile-screen" width="450"/>
 
 ## ✅ Learning objectives
 
