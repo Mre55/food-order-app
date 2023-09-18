@@ -78,7 +78,7 @@ You can work in your favorite Code Editor
 
 ## 💻📱 Live Preview
 
-If you want to see a live demo of this project, [click here]()
+If you want to see a live demo of this project, [click here](food-order-app-9b2b3.firebaseapp.com/)
 
 ## Authors
 
