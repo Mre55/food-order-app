@@ -37,20 +37,14 @@ Here you can take a look at the different pages for the mobile version
 
 <img src="./screenshots/orderPageMobile.png" alt="myProfile-screen" width="450"/>
 
-## ✅ Learning objectives
 
-- Fetch data from a public API
-- Implement state management with react-redux
-- Render fetched data on the screen
-- Implement a profile interface with user-reserved missions and rockets
 
 ## 🧩 Built With
 
 - React.js
 - React-router
-- Redux
-- TailwindCSS
-- Webpack
+- React Context API
+  
 
 ## 📚 Getting Started
 
